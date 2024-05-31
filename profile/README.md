@@ -1,4 +1,4 @@
-## 歡迎來到 MetaStar Projects.
+## 歡迎來到 MetaStar Projects
 
 _機器學習 搜尋技術 圖像分析 未來展望_
 
@@ -11,7 +11,7 @@ _機器學習 搜尋技術 圖像分析 未來展望_
 
 > Star Inc. OSS Zone <https://opensource.starinc.xyz>
 
-> MetaStar Projects. 所屬專案皆為研究用途。
+> MetaStar Projects 所有專案皆為研究用途。
 > 
 > Star Inc. 不提供官方性質支援，不對進行收費、營利等作業。
 >
