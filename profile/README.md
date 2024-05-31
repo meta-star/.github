@@ -1,13 +1,18 @@
-## 歡迎來到 caOS 平台
+## 歡迎來到 MetaStar Projects.
 
-我們致力於：為使用者提供友善的 IoT 操作體驗，
+_機器學習 搜尋技術 圖像分析 未來展望_
 
-並打造出開放原始碼的 IoT 系統生態環境。
-
-`caOS 不只是一個作業系統，更是一個專注於 IoT 生態的平台。`
+我們是為研發新穎、創新科技而生，
+無所畏懼地面對各種挑戰的頂尖技術研發團隊。
 
 `>>`
-[`website`](https://caos.startw.cf/)
+[`website`](https://project.starinc.xyz)
 [`github-star_inc`](https://github.com/star-inc)
 
 > Star Inc. OSS Zone <https://opensource.starinc.xyz>
+
+> MetaStar Projects. 所屬專案皆為研究用途。
+> 
+> Star Inc. 不提供官方性質支援， 不對其進行收費、營利等作業。
+>
+> 與此同時，亦不會為該專案對您所造成的損失負責。
