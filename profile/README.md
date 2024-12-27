@@ -1,12 +1,3 @@
----
-title: README
-emoji: 👁
-colorFrom: gray
-colorTo: blue
-sdk: static
-pinned: false
----
-
 ## 歡迎來到 MetaStar Projects
 
 _機器學習 搜尋技術 圖像分析 未來展望_
